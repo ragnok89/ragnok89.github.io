@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+#menu-0 .navbar-toggler {
+  color: #d9534f;
+}
+#menu-0 .navbar-brand {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+}
+#menu-0 .nav-link {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+#header1-6 H1 {
+  color: #f2f2f2;
+  font-family: 'PT Sans', sans-serif;
+}
+#header1-6 P {
+  color: #ffffff;
+}
+#header1-6 B {
+  font-family: 'PT Sans', sans-serif;
+}
+#header1-6 I {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-8 H2 {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 30px;
+}
+#content5-7 P {
+  text-align: left;
+}
+#pricing-table1-h B {
+  font-family: 'PT Sans', sans-serif;
+}
+#pricing-table1-h DIV {
+  font-family: 'PT Sans', sans-serif;
+}
+#pricing-table1-h P {
+  font-size: 15px;
+}
+#contacts3-e P {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts3-e B {
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts3-e .btn {
+  font-family: 'PT Sans', sans-serif;
+}

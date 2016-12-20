@@ -1,0 +1,564 @@
+{
+  "settings": {
+    "name": "Cherrie",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.10.3",
+    "uniqCompNum": 30,
+    "versionPublish": "3.10.3",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n  ga('create', 'UA-89270113-1', 'auto');\r\n  ga('send', 'pageview');\r\n</script>",
+    "cookiesAlert": "Utilizamos cookies no nosso site para uma melhor experiência. Saiba mais na nossa <a href='privacy.html'>politica de cookies</a>."
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Cherrie Construções Unipessoal, Lda",
+        "meta_descr": "Cherrie um sabor em construção - Obras - Projectos - Certificação Energética - Orçamentos - Reabilitação - Sistemas de Isolamento Térmico - Capoto.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            },
+            ".navbar-brand": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "20px"
+            },
+            ".nav-link": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "menu-0",
+          "_params": {
+            "hamburgerColor": "#d9534f",
+            "sticky": false,
+            "transparent": true,
+            "color": "#fff",
+            "collapsed": true,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-cherrie-122x128-71.png",
+              "height": 128,
+              "alt": "",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Uma doçura na construção!</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"#top\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#content5-7\">Empresa</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#pricing-table1-h\">Serviços</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#form1-b\">Orçamentação</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#form2-i\">Noticias</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#contacts3-e\">Contactos</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "color": "#f2f2f2",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "I": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "header1-6",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1471109880861-75a04f9b7833-2000x1333-6.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "Bem-Vindo",
+          "text": "Somos uma equipa pluridiscipilinar especialista em imóveis há mais de 20 anos e na consequência da nossa experiência apresentamos uma nova forma de realizar os desejos e gostos dos nossos clientes, com garantia de que o que concebemos é a melhor solução para cada cliente específico.&nbsp;<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#content5-7\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "msg-box1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#form1-b\" data-toolbar=\"-mbrBtnMove\">Pedir Orçamento</a>",
+          "title": "ORÇAMENTOS SEM COMPROMISSO",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-7",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1468323867382-6a9fcbbd68f2-2000x1527-9.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "É fundamental trabalhar com profissionais!",
+          "caption": "<p>Baseada na inovação, a Cherrie mantê-se a par das úlimas tendências do mercado, quer ao nível técnico, quer ao nível de materiais e valores.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Assumindo uma postura pró-activa e exigente, a Cherrie efectua Obras e Projectos de Arquitectura e Engenharia, Remodelações, Recuperações, Decoração e Certificação Energética, sejam estes destinados a habitação; serviços (privados ou púlicos); sejam fracões de pequena, média ou grande dimensão.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">A Cherrie pode assumir a gestão integral dos trabalhos possibilitando uma solução chave na mão, através de uma equipa multidisciplinar, com vasta experiência e formação contínua, abrangendo as diversas áreas tais como a arquitectura, engenharia, decoração e design.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">A Cherrie centra-se no cliente, no seu universo, valores e preferências, dispondo de um serviço personalizado e cuidado.</span></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "counters": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Partilhe-nos!"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1422480415834-d7d30118ea06-2000x1334-38-800x533-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1422480415834-d7d30118ea06-2000x1334-38.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1444201983204-c43cbd584d93-2000x1333-94-800x533-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1444201983204-c43cbd584d93-2000x1333-94.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1479243669563-7633e07b6520-2000x1302-28-800x520-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1479243669563-7633e07b6520-2000x1302-28.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1475855581690-80accde3ae2b-2000x1333-4-800x533-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1475855581690-80accde3ae2b-2000x1333-4.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1462206092226-f46025ffe607-2000x1328-7-800x531-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1462206092226-f46025ffe607-2000x1328-7.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1416339684178-3a239570f315-2000x1500-73-800x600-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1416339684178-3a239570f315-2000x1500-73.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1441984904996-e0b6ba687e04-2000x1334-68-800x533-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1441984904996-e0b6ba687e04-2000x1334-68.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1456139456319-352002cddddd-2000x1333-89-800x533-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1456139456319-352002cddddd-2000x1333-89.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#efefef",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-l",
+          "articleLayout": false
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "DIV": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "P": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "pricing-table1-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": false,
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary"
+          },
+          "title1": "<b>Obra Nova</b>",
+          "currency1": "",
+          "price1": "",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Serviços que prestamos:</b></li></ul><p><br></p><p>- Construção de Casas</p><p>- Construção de Moradias</p><p>- Construção de Edificios</p><p>- Construção de Espaços Comerciais</p><p>- Certificados Energéticos</p><p>- Gestão de obra</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "<b>Reabilitação</b>",
+          "currency2": "",
+          "price2": "",
+          "period2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Serviços que prestamos:</b></li></ul><p><br></p><p>- Reabilitação de Edifícios</p><p>- Reabilitação Urbana</p><p>- Reabilitação de apartamentos</p><p>- Reabilitação de Imóveis</p><p>- Reabilitação de Lojas</p><p>- Reabilitação de Prédios</p><p>- Reabilitação de Vivendas</p><p>- Remodelação de Apartamentos&nbsp;</p><p>- Remodelação de Casas</p><p>- Remodelação de Interiores</p><p>- Remodelação de Cozinhas</p><p>- Remodelação de Exteriores</p><p>- Remodelação de fachadas&nbsp;</p><p>- Remodelação de imóveis comerciais</p><p>- Remodelação de imóveis particulares</p><p>- Remodelação de imóveis rurais&nbsp;</p><p>- Remodelação de imóveis urbanos</p><p>- Certificados Energéticos</p><p>- Gestão de obra</p>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "<b>Projectos</b>",
+          "currency3": "",
+          "price3": "",
+          "period3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Serviços que prestamos:</b></li></ul><p><br></p><p>- Projectos de Raíz</p><p>- Projectos de Especialidades</p><p>- Projectos de Remodelação</p><p>- Projectos de Decoração</p><p>- Projectos chave-na-mão</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "<b>Arquitectura</b>",
+          "currency4": "",
+          "price4": "",
+          "period4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Serviços que prestamos:</b></li></ul><p><br></p><p>- Arquitectura interior de restaurantes</p><p>- Arquitectura interior de clínicas</p><p>- Arquitectura interior de congressos</p><p>- Arquitectura interior de Hóteis</p><p>- Arquitectura interior de lojas</p><p>- Decoração de ambientes</p><p>- Design de imobiliário</p><p>- Estudo de cores</p><p>- Estudos de de materiais</p><p>- Estudos Prédios</p><p>- Decoração espaços comerciais</p><p>- Decoração de habitações</p><p>- Decoração de terraços</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Pedido de Orçamento",
+          "form": {
+            "action": "geral@cherrie.pt",
+            "alerts": {
+              "success": "Obrigado pela sua mensagem. Iremos proceder ao seu pedido o mais rápido possivel."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar pedido</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Subscreva a nossa Newsletter",
+          "form": {
+            "action": "geral@cherrie.pt",
+            "alerts": {
+              "success": "Obrigado por nos subscrever!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Introduza o seu email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscrever</a>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-p",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 | Cherrie Construções - Obras - Projectos - Certificação Energética - Orçamentos"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "contacts3-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Sede Porto</strong><br>Rua da Nora 146,<br>4400-513 V. N. Gaia<br><br><b>Sede Lisboa<br></b>Rua do Zambujal,<br>Odivelas<br><br><b>Sede Algarve<br></b>Estrada da Nora,<br>Montechoro<br>",
+          "text2": "<b>Contactos</b><div><b>Email: geral@cherrie.pt</b></div><div><b>Telefone: +351 934 323 691</b></div><div><br></div>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "geral@cherrie.pt",
+            "alerts": {
+              "success": "Obrigado por nos contactar!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contactar</a>"
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "title": "Politica de Cookies"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t",
+          "text": "<p>Utilizamos cookies para melhorar o desempenho e a sua experiência como utilizador no nosso site.</p><p><br></p><p><b>O que são Cookies</b></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">As Cookies são pequenos ficheiros de texto que um site, quando visitado, coloca no computador do utilizador ou no seu dispositivo móvel, através do navegador de internet (browser). A colocação de Cookies ajudará o site a reconhecer o seu dispositivo numa próxima visita. Usamos o termo cookies nesta política para referir todos os ficheiros que recolhem informações desta forma.</span></p><p>As cookies utilizadas não recolhem informação que pode utilizada para o identificar ou contactar, tais como o seu nome, endereço de correio eletrónico, endereços pessoais ou profissionais ou número de telefone. No entanto, se já for nosso cliente e tiver autorizado a utilização dos seus dados pessoais para efeitos de Marketing, poderemos registar as suas visitas ao site caso tenha acedido ao mesmo através de comunicação enviada por nós (e-mail ou SMS por exemplo).</p><p>As cookies recolhem também informações genéricas, designadamente a forma como os utilizadores chegam e utilizam os sites ou a zona do país/países através do qual acedem ao site, etc.</p><p>As cookies retêm apenas informação relacionada com as suas preferências.</p><p>A qualquer momento o utilizador pode, através do seu navegador de internet (browser) decidir ser notificado sobre a recepção de cookies, bem como bloquear a respectiva entrada no seu sistema.</p><p>A recusa de uso de cookies no site, pode resultar na impossibilidade de ter acesso a algumas das suas áreas ou de receber informação personalizada.</p><p><br></p><p><b>Para que servem as Cookies</b></p><p>As cookies são utilizadas para ajudar a determinar a utilidade, interesse e o número de utilizações dos sites, permitindo uma navegação mais rápida e eficiente e eliminando a necessidade de introduzir repetidamente as mesmas informações.</p><p><br></p><p><b>Que tipo de Cookies utilizamos</b></p><p>As nossas cookies têm diferentes funções:</p><p><b>Cookies essenciais –</b> Algumas cookies são essenciais para aceder a áreas específicas do nosso site. Permitem a navegação no site e a utilização das suas aplicações, tal como aceder a áreas seguras do site através de login. Sem estas cookies, os serviços que o exijam não podem ser prestados.</p><p><b>Cookies analíticas -</b> Utilizamos estas cookies para analisar a forma como os utilizadores usam o site e monitorar a performance deste. Isto permite-nos fornecer uma experiência de alta qualidade ao personalizar a nossa oferta e rapidamente identificar e corrigir quaisquer problemas que surjam. Por exemplo, usamos cookies de desempenho para saber quais as páginas mais populares, qual o método de ligação entre páginas que é mais eficaz, ou para determinar a razão de algumas páginas estarem a receber mensagens de erro. Baseado na utilização do site, podemos também utilizar estes cookies para destacar artigos ou serviços do site que pensamos ser do interesse dos utilizadores. Estas cookies são utilizados apenas para efeitos de criação e análise estatística, sem nunca recolher informação de caráter pessoal.</p><p><b>Cookies de funcionalidade -</b> Utilizamos cookies de funcionalidade para nos permitir relembrar as preferências do utilizador. Por exemplo, os cookies evitam digitar o nome do utilizador cada vez que este acede ao site. Também usamos cookies de funcionalidade para fornecer serviços avançados ao utilizador, como por exemplo efetuar comentários a um artigo. Em resumo, os cookies de funcionalidade guardam as preferências do utilizador relativamente à utilização do site, de forma que não seja necessário voltar a configurar o site cada vez que o visita.&nbsp;</p><p><b>Cookies de terceiros -</b> Servem para medir o sucesso de aplicações e a eficácia da publicidade de terceiros no nosso site.</p><p><b>Cookies de publicidade -</b> Servem para direcionar a publicidade em função dos interesses de cada utilizador e do número de visitas que realizou, permitindo limitar o número de vezes do visionamento do anúncio. Estes cookies ajudam a medir a eficácia da publicidade.</p><p><br></p><p><b>As Cookies utilizadas podem ser:</b></p><p><b>Cookies permanentes -</b> Ficam armazenadas ao nível do navegador de internet (browser) nos seus dispositivos de acesso (pc, mobile e tablet) e são utilizadas sempre que o utilizador faz uma nova visita ao site. Geralmente são utilizadas para direcionar a navegação de acordo com os interesses do utilizador, permitindo-nos prestar um serviço mais personalizado.</p><p><b>Cookies de sessão -</b> São temporárias, permanecem nas cookies do seu navegador de internet (browser) até sair do site. A informação obtida permite identificar problemas e fornecer uma melhor experiencia de navegação.</p><p><br></p><p>Depois de autorizar o uso de Cookies, o utilizador pode sempre desativar parte ou a totalidade das nossas cookies.</p><p><br></p><p>Todos os browsers permitem ao utilizador aceitar, recusar ou apagar cookies, nomeadamente através da seleção das definições apropriadas no respetivo navegador. Pode configurar as Cookies no menu \"opções\" ou \"preferências\" do seu browser.</p><p>Note-se, no entanto, que, ao desativar as cookies, pode impedir que alguns serviços da web funcionem corretamente, afetando, parcial ou totalmente, a navegação no website.</p><p>Recordamos que ao desativar as cookies, partes do nosso site podem não funcionar corretamente.</p><p>Mais informação sobre cookies em: <a href=\"www.allaboutcookies.org \" target=\"_blank\">www.allaboutcookies.org&nbsp;</a></p>"
+        }
+      ]
+    }
+  }
+}
