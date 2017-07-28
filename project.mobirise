@@ -370,7 +370,7 @@
               "name": "map-pin",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
+              "link": "www.dmar-imobiliaria.pt",
               "size": 0,
               "newWindow": false
             }
@@ -378,7 +378,7 @@
           "title4": "IMOBILIÁRIA",
           "subtitle4": "",
           "caption4": "Tem um imóvel que não consegue vender ou anda à procura do imóvel certo? A DMAR Imobiliária oferece um serviço personalizado para conseguir arranjar a melhor solução.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"imo.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"www.dmar-imobiliaria.pt\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a>",
           "media5": {
             "iconFont": {
               "active": true,
