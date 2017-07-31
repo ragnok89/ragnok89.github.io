@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grupo DMAR",
-    "currentPage": "gondomar.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo-02-128x117.png",
     "noImageResize": "true",
@@ -378,7 +378,7 @@
           "title4": "IMOBILIÁRIA",
           "subtitle4": "",
           "caption4": "Tem um imóvel que não consegue vender ou anda à procura do imóvel certo? A DMAR Imobiliária oferece um serviço personalizado para conseguir arranjar a melhor solução.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"www.dmar-imobiliaria.pt\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"www.dmar-imobiliaria.pt\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SABER MAIS</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -704,7 +704,7 @@
             "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": true,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery2-1s",
           "articleLayout": false,
