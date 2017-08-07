@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grupo DMAR",
-    "currentPage": "novasparcerias.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -117,7 +117,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo.png",
+              "src": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo.jpg",
               "height": 128,
               "alt": "Dmar",
               "link": "index.html",
