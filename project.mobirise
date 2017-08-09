@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo-02-128x117.png",
     "noImageResize": "true",
@@ -2158,29 +2158,23 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"novasparcerias.html#htmlblock-block-2h\" data-toolbar=\"-mbrBtnMove\">INSCREVER-ME</a>"
         },
         {
-          "alias": "htmlblock",
+          "alias": "deltapieditor",
           "_tags": [
             "Extension"
           ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-2h",
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2j",
           "_params": {
-            "blockTitle": "",
-            "HTMLCode": "<h1><iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLScZSqVbiUW6imNGAb4KN5Eo7YrlHItgnaRXADR6Sd3d7uPjqg/viewform?embedded=true\" width=\"1200\" height=\"1500\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\">Loading...</iframe></h1>",
-            "paddingTop": "0",
+            "_customHTML": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLScZSqVbiUW6imNGAb4KN5Eo7YrlHItgnaRXADR6Sd3d7uPjqg/viewform?embedded=true\" width=\"1200\" height=\"1500\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\">Loading...</iframe>",
+            "_customCSS": "p{color:white;}",
             "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
             "bgColor": "#607d8b",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "extEdit": true
+            "bgColorRadio": true
           },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "",
-          "HTMLCode": "<h1><iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLScZSqVbiUW6imNGAb4KN5Eo7YrlHItgnaRXADR6Sd3d7uPjqg/viewform?embedded=true\" width=\"1200\" height=\"1500\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\">Loading...</iframe></h1>"
+          "_customCSS": "p{color:white;}",
+          "_customHTML": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLScZSqVbiUW6imNGAb4KN5Eo7YrlHItgnaRXADR6Sd3d7uPjqg/viewform?embedded=true\" width=\"1200\" height=\"1500\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\">Loading...</iframe>"
         },
         {
           "_tags": [
