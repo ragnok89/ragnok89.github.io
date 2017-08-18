@@ -558,8 +558,31 @@ h6,
   color: #faaf40!important;
 }
 
+#msg-box3-2m .mbr-section-title,
+#msg-box3-2m p {
+  color: #000;
+}
 #form1-w .form-control-label {
   color: #232323;
+}
+#contacts5-2l p,
+#contacts5-2l .list-group-text,
+#contacts5-2l .form-control-label {
+  color: #000;
+}
+#contacts5-2l strong,
+#contacts5-2l h4 {
+  color: #7e9b9f;
+}
+#contacts5-2l form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-2l .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-2l .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
 #menu-y .hide-buttons .nav-btn {
   display: none !important;
