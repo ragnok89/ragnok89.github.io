@@ -265,6 +265,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-5",
           "_params": {
             "paddingTop": 2,
@@ -278,12 +283,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios"
         },
         {
           "_inherit": "features1",
@@ -600,18 +600,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "content1-2u",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>Nascida através do desejo de prestar o melhor serviço nas diversas áreas da construção, a DMAR Construções apresenta-se como a melhor solução para os seus projetos. Constituída por uma equipa técnica especializada conseguimos presentear os nossos clientes com as melhores técnicas e capacidades para executar os mais diversos tipos de projetos construtivos. Quer tenha uma nova morada para construir ou simplesmente rejuvenescer a sua atual morada não hesite em nos <b>contactar</b>. Ficará maravilhado com o que pudemos fazer por si.</p>",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "<p>Nascida através do desejo de prestar o melhor serviço nas diversas áreas da construção, a DMAR Construções apresenta-se como a melhor solução para os seus projetos. Constituída por uma equipa técnica especializada conseguimos presentear os nossos clientes com as melhores técnicas e capacidades para executar os mais diversos tipos de projetos construtivos. Quer tenha uma nova morada para construir ou simplesmente rejuvenescer a sua atual morada não hesite em nos <b><a href=\"building.html#form1-2a\">contactar</a></b>. Ficará maravilhado com o que pudemos fazer por si.</p>"
         },
         {
           "_styles": {
@@ -641,7 +641,7 @@
           "_anchor": "features3-22",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -691,7 +691,7 @@
           },
           "title2": "Projectos Chave na Mão",
           "subtitle2": "",
-          "caption2": "<p>One of Bootstrap 4's big points is &nbsp;&nbsp;&nbsp;&nbsp;responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.</p>",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -707,7 +707,7 @@
           },
           "title3": "Aplicação Certificada de ETICS",
           "subtitle3": "",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -722,8 +722,8 @@
             }
           },
           "title4": "Projectos a Sua Medida",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -738,8 +738,8 @@
             }
           },
           "title5": "Pintura e Renovação",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "subtitle5": "",
+          "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -754,8 +754,8 @@
             }
           },
           "title6": "Qualidade Garantida",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "subtitle6": "",
+          "caption6": "",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -776,7 +776,7 @@
             "showMeta": true
           },
           "title": "Portfólio de obras",
-          "meta": "Actualizado em 28 - 07 - 2017 <br>(Clique no titulo da obra para ver a galeria completa da mesma)"
+          "meta": "(Clique no titulo da obra para ver a galeria completa da mesma)<br>"
         },
         {
           "_inherit": "gallery1",
@@ -871,7 +871,7 @@
             ],
             "spacing": 0,
             "showText": true,
-            "filter": true,
+            "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": true,
@@ -907,7 +907,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "AGENDAR VISITA",
+          "title": "AGENDAR REUNIÃO",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "geral@dmar.pt",
@@ -936,13 +936,18 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AGENDAR VISITA</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">AGENDAR REUNIÃO</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-d",
           "_params": {
             "paddingTop": 2,
@@ -956,12 +961,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios"
         },
         {
           "_styles": {
@@ -1732,6 +1732,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-1y",
           "_params": {
             "paddingTop": 2,
@@ -1745,12 +1750,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios"
         }
       ]
     },
@@ -1858,6 +1858,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-2f",
           "_params": {
             "paddingTop": 2,
@@ -1871,12 +1876,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios"
         },
         {
           "_styles": {
