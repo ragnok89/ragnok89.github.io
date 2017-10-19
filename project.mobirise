@@ -160,7 +160,7 @@
                 "showText": true,
                 "text": "Agora a sua morada de sonho está ao seu alcance. Se tem terreno para construir e não sabe por onde começar ou comprou um imóvel e não sabe como o reabilitar agende uma visita connosco.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"building.html\" data-toolbar=\"-mbrBtnMove\">AGENDAR VISITA</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#features2-b\" data-toolbar=\"-mbrBtnMove\">AGENDAR VISITA</a> "
               },
               {
                 "active": false,
@@ -174,7 +174,7 @@
                 "showText": true,
                 "text": "Agora a sua morada de sonho está ao seu alcance. Se tem terreno para construir e não sabe por onde começar ou comprou um imóvel e não sabe como o reabilitar agende uma visita connosco.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"building.html\" data-toolbar=\"-mbrBtnMove\">AGENDAR VISITA</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features2-b\" data-toolbar=\"-mbrBtnMove\">AGENDAR VISITA</a> "
               },
               {
                 "active": false,
@@ -189,7 +189,7 @@
                 "showText": true,
                 "text": "Agora a sua morada de sonho está ao seu alcance. Se tem terreno para construir e não sabe por onde começar ou comprou um imóvel e não sabe como o reabilitar agende uma visita connosco.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"building.html\" data-toolbar=\"-mbrBtnMove\">AGENDAR VISITA</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#features2-b\" data-toolbar=\"-mbrBtnMove\">AGENDAR VISITA</a> "
               },
               {
                 "active": false,
@@ -204,7 +204,7 @@
                 "showText": true,
                 "text": "Agora com a DMAR tem possibilidade de reabilitar ou reformar o seu imóvel e vende-lo sem grandes preocupações.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AGENDE UMA VISITA</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features2-b\" data-toolbar=\"-mbrBtnMove\">AGENDE UMA VISITA</a> "
               },
               {
                 "active": true,
@@ -219,7 +219,7 @@
                 "showText": true,
                 "text": "Sim nós fazemos.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"energy.html\" data-toolbar=\"-mbrBtnMove\">AGENDE UM</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://dmar.pt/energy\" data-toolbar=\"-mbrBtnMove\">AGENDE UM</a> "
               }
             ],
             "fullScreen": true,
@@ -525,145 +525,6 @@
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/teste-logo-small.png",
-              "width": 128,
-              "active": true,
-              "link": "#top",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Morada</strong><br>\nRua trás do Maninho<br>\nMadalena, V. N. Gaia",
-          "text2": "<strong>Contactos</strong><br>\nEmail: geral@dmar.pt<br>\nTelemóvel: +351 934 323 691<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a href=\"building.html\" target=\"_blank\">DMAR</a> Construções<br>\n<a href=\"http://www.dmar-imobiliaria.pt\">DMAR</a> Imobiliária<br>\n<a href=\"http://www.dmarcondominios.x10host.com\" target=\"_blank\">DMAR</a> Condomínios<br><a href=\"seguros.html\" target=\"_blank\">DMAR</a> Seguros<br><a href=\"energy.html\" target=\"_blank\">DMAR</a> Certificados Energéticos"
-        }
-      ]
-    },
-    "energy.html": {
-      "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-33",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#28324e",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-18",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#475577",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "CERTIFICADOS ENERGÉTICOS",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"energy.html#form1-19\" data-toolbar=\"-mbrBtnMove\">AGENDAR UM</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-15",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-34",
-          "_params": {
-            "_customHTML": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSeVh8mZiftBRJINechVzyAuRjLQ_eTJL4yr4NRZI2tfB_u5TA/viewform?embedded=true\" width=\"100%\" height=\"1130\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\"  frameborder=\"no\" align=\"center\">A carregar...</iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
-            "bgColor": "#607d8b",
-            "bgColorRadio": true
-          },
-          "_customCSS": "p{color:white;}",
-          "_customHTML": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSeVh8mZiftBRJINechVzyAuRjLQ_eTJL4yr4NRZI2tfB_u5TA/viewform?embedded=true\" width=\"100%\" height=\"1130\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\"  frameborder=\"no\" align=\"center\">A carregar...</iframe>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-2g",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo-02-128x117.png",
               "width": 128,
               "active": true,
               "link": "#top",
