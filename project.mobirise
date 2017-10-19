@@ -524,7 +524,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo-02-128x117.png",
+              "src": "@PROJECT_PATH@/assets/images/teste-logo-small.png",
               "width": 128,
               "active": true,
               "link": "#top",
