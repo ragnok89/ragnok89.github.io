@@ -345,7 +345,7 @@
               "name": "idea",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "energy.html",
+              "link": "http://dmar.pt/energy",
               "size": 0,
               "newWindow": false
             }
@@ -353,7 +353,7 @@
           "title2": "CERTIFICADOS ENERGÉTICOS",
           "subtitle2": "",
           "caption2": "Quer vender um imóvel e precisa de certificação energética?<br>A DMAR e a sua equipa podem ajudar.<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"energy.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://dmar.pt/energy\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
