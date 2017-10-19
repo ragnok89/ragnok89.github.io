@@ -329,7 +329,7 @@
               "name": "home",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "building.html",
+              "link": "http://dmar.pt/building",
               "size": 0,
               "newWindow": true
             }
@@ -337,7 +337,7 @@
           "title1": "OBRAS",
           "subtitle1": "",
           "caption1": "Sempre a inovar a DMAR construções oferece um leque de serviços desde a construção de raiz a renovação de imóveis.<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"building.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">VISITAR PÁGINA</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://dmar.pt/building\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">VISITAR PÁGINA</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
