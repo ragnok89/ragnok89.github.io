@@ -24,12 +24,15 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 130,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/logotipo-dmar-grupo-02-128x117.png",
+    "favicon": "@PROJECT_PATH@/assets/images/teste-logo-small-1.png",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n  ga('create', 'UA-96179399-1', 'auto');\r\n  ga('send', 'pageview');\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "html_before": "",
+    "headbody": "",
+    "botbody": ""
   },
   "pages": {
     "index.html": {
