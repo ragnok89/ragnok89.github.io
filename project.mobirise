@@ -241,8 +241,8 @@
           "_name": "header3",
           "_anchor": "header3-11",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingTop": "5",
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -257,10 +257,10 @@
           "_anchor": "content1-10",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "4",
+            "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>A DMAR nasceu do sonho de conseguir satisfazer o cliente fornecendo um leque completo de soluções e providenciar um serviço transparente e com garantias totais. Seja desde construção de uma casa, renovações, venda de Imóveis ou um simples certificado energético nós temos a solução.</p>"
+          "text": "<p>A DMAR é um Grupo que tem como objectivo principal satisfazer os seus clientes em todas as suas necessidades relacionadas com os seus imóveis. Fornece portanto um leque completo de soluções para os imóveis e providencia um serviço transparente e com garantias totais. Seja desde construção, obras de menor dimensão, venda de Imóveis, gestão de condomínios de edifícios, seguros para os imóveis e seus ocupantes ou a certificação energética do imóvel com aconselhamento para melhorias energéticas.</p><p><br></p><p>Para tal a DMAR tem nos seus quadros, profissionais qualificados e licenciados pelas melhores Universidades para desenvolver todas estas actividades com as regras actuais.</p>"
         },
         {
           "_tags": [
@@ -285,7 +285,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 | DMAR - Construção - Imobiliária - Condominios - Seguros"
+          "text": "Copyright (c) 2017 | DMAR GRUPO. Todos os direitos reservados."
         },
         {
           "_inherit": "features1",
@@ -301,8 +301,8 @@
           "_anchor": "features2-b",
           "_params": {
             "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -319,7 +319,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": true
           },
           "media1": {
@@ -337,7 +337,7 @@
           "title1": "OBRAS",
           "subtitle1": "",
           "caption1": "Sempre a inovar a DMAR construções oferece um leque de serviços desde a construção de raiz a renovação de imóveis.<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://dmar.pt/building\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">VISITAR PÁGINA</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://dmar.pt/building\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -443,7 +443,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "AGENDE UMA VISITA",
+          "title": "<p>AGENDE UMA REUNIÃO&nbsp;&nbsp;&nbsp;&nbsp;</p>",
           "subtitle": "",
           "form": {
             "action": "geral@dmar.pt",
@@ -486,8 +486,8 @@
           },
           "_anchor": "social-buttons1-8",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -502,7 +502,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Dê-nos a conhecer!<br>"
+          "text": "Apresente-nos a um amigo seu!<br>"
         },
         {
           "_tags": [
