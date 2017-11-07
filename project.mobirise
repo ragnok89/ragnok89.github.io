@@ -543,7 +543,7 @@
           },
           "text1": "<strong>Morada</strong><br>\nRua trás do Maninho<br>\nMadalena, V. N. Gaia",
           "text2": "<strong>Contactos</strong><br>\nEmail: geral@dmar.pt<br>\nTelemóvel: +351 934 323 691<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a href=\"building.html\" target=\"_blank\">DMAR</a> Construções<br>\n<a href=\"http://www.dmar-imobiliaria.pt\">DMAR</a> Imobiliária<br>\n<a href=\"http://www.dmarcondominios.x10host.com\" target=\"_blank\">DMAR</a> Condomínios<br><a href=\"seguros.html\" target=\"_blank\">DMAR</a> Seguros<br><a href=\"energy.html\" target=\"_blank\">DMAR</a> Certificados Energéticos"
+          "text3": "<strong>Links</strong><br>\n<a href=\"http://dmar.pt/building/\" target=\"_blank\">DMAR</a> Construções<br>\n<a href=\"http://www.dmar-imobiliaria.pt\">DMAR</a> Imobiliária<br>\n<a href=\"http://www.dmarcondominios.x10host.com\" target=\"_blank\">DMAR</a> Condomínios<br><a href=\"http://dmar.pt/seguros/\" target=\"_blank\">DMAR</a> Seguros<br><a href=\"http://dmar.pt/energy/\" target=\"_blank\">DMAR</a> Certificados Energéticos"
         }
       ]
     },
