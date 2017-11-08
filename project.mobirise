@@ -404,7 +404,7 @@
           "title5": "SEGUROS",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "À procura do seguro certo?<br>Fale com um dos nossos agentes<br>e não se preocupe mais.<br>Auto, Casa, Saúde ou até mesmo<br> para a sua empresa,<br> nós temos a solução!<br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://dmar.pt/seguros/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS!</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"http://dmar.pt/seguros/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SABER MAIS!</a>",
           "media6": {
             "iconFont": {
               "active": true,
